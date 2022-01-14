@@ -1,0 +1,34 @@
+{
+  "cities": [
+    {
+      "name": "gothenburg",
+      "information": "Gothenburg, a major city in Sweden, is situated off the Göta älv river on the country's west coast. An important seaport, it's known for its Dutch-style canals and leafy boulevards like the Avenyn, the city's main thoroughfare, lined with many cafes and shops. Liseberg is a popular amusement park with themed rides, performance venues and a landscaped sculpture garden.",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Barken_Viking_i_G%C3%B6teborg.JPG/1920px-Barken_Viking_i_G%C3%B6teborg.JPG"
+    },
+    {
+      "name": "curitiba",
+      "information": "Curitiba is one of the largest cities in the prosperous Southern region, and its population is largely descended from German, Ukrainian, Russian, Italian and Polish immigrants. The city is known to urban planners worldwide for its innovative public transit system.",
+      "cover": "https://wikitravel.org/upload/shared//8/8c/Curitiba-botanical-garden.jpg"
+    },
+    {
+      "name": "munich",
+      "information": "Munich, Bavaria’s capital, is home to centuries-old buildings and numerous museums. The city is known for its annual Oktoberfest celebration and its beer halls, including the famed Hofbräuhaus, founded in 1589. In the Altstadt (Old Town), central Marienplatz square contains landmarks such as Neo-Gothic Neues Rathaus (town hall), with a popular glockenspiel show that chimes and reenacts stories from the 16th century.",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Frauenkirche_and_Neues_Rathaus_Munich_March_2013.JPG/1920px-Frauenkirche_and_Neues_Rathaus_Munich_March_2013.JPG"
+    },
+    {
+      "name": "ituiutaba",
+      "information": "Ituiutaba is a municipality in the western part of Minas Gerais state, Brazil. Elevated to city status in 1901, its population in 2020 was 105,255 and a total area in the municipality of 2,694 km². The elevation of the seat of the municipality is 544 m.",
+      "cover": "https://www.guiadoturismobrasil.com/up/img/1444266114.jpg"
+    },
+    {
+      "name": "stockholm",
+      "information": "Stockholm, the capital of Sweden, encompasses 14 islands and more than 50 bridges on an extensive Baltic Sea archipelago. The cobblestone streets and ochre-colored buildings of Gamla Stan (the old town) are home to the 13th-century Storkyrkan Cathedral, the Kungliga Slottet Royal Palace and the Nobel Museum, which focuses on the Nobel Prize. Ferries and sightseeing boats shuttle passengers between the islands.",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Djurgardsbron_2008.jpg/1920px-Djurgardsbron_2008.jpg"
+    },
+    {
+      "name": "berlin",
+      "information": "Berlin, Germany’s capital, dates to the 13th century. Reminders of the city's turbulent 20th-century history include its Holocaust memorial and the Berlin Wall's graffitied remains. Divided during the Cold War, its 18th-century Brandenburg Gate has become a symbol of reunification. The city's also known for its art scene and modern landmarks like the gold-colored, swoop-roofed Berliner Philharmonie, built in 1963.",
+      "cover": "https://img.static-af.com/images/meta/IDname/CITY-BER-1?aspect_ratio=12:5&max_width=1920"
+    }
+  ]
+}
